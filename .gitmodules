@@ -1,0 +1,3 @@
+[submodule "wadl2json"]
+	path = wadl2json
+	url = https://github.com/CleverCloud/wadl2json.git
