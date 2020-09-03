@@ -17,5 +17,5 @@ options:
 - Install node: `sudo apt install nodejs`
 - Install npm: `sudo apt install npm`
 - Install dependenices: `npm install`
-- Install dependencies for submodule: `cd wadl2json; npm install`
+- Install dependencies for submodule (ignore any errors): `cd wadl2json; npm install`
 - Install jq: `sudo apt install jq`
