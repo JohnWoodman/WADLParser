@@ -16,6 +16,6 @@ options:
 - Clone Repo: `git clone --recurse-submodules https://github.com/JohnWoodman/WADLGrabber.git`
 - Install node: `sudo apt install nodejs`
 - Install npm: `sudo apt install npm`
-- Install dependenices: `npm install`
-- Install dependencies for submodule (ignore any errors): `cd wadl2json; npm install`
+- Install Dependenices: `npm install`
+- Install Dependencies For Submodule (ignore any errors): `cd wadl2json; npm install`
 - Install jq: `sudo apt install jq`
