@@ -1,4 +1,4 @@
-# WADLGrabber
+# WADLParser
 
 Very basic script that parses an application.wadl file and grabs all the endpoints to be used for bruteforcing or anything else.
 
