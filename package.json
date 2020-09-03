@@ -1,0 +1,23 @@
+{
+  "name": "wadlgrabber",
+  "version": "1.0.0",
+  "description": "Very basic script that parses an application.wadl file and grabs all the endpoints to be used for bruteforcing or anything else.",
+  "main": "wadl-2-json.js",
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnWoodman/WADLGrabber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnWoodman/WADLGrabber/issues"
+  },
+  "homepage": "https://github.com/JohnWoodman/WADLGrabber#readme"
+}
