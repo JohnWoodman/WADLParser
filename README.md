@@ -11,3 +11,7 @@ options:
 -f, --file      specify path to local application.wadl file
 -u, --url       specify url of remote application.wadl file
 ```
+
+## Installation
+- Clone Repo: `git clone --recurse-submodules `
+- Install node: `sudo apt install nodejs`
